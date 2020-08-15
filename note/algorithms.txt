@@ -1,0 +1,12 @@
+newton's formula (finding square root)
+collatz sequence
+linear search, linear sorting - 1
+binary search - 2
+insertion sort - 3
+merge sort - 4
+merge
+tim sort - 5
+quick sort - 6
+recursion - 7
+
+
